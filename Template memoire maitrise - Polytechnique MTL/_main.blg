@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: _main.aux
+A level-1 auxiliary file: 1-Dedicace.aux
+A level-1 auxiliary file: 2-Remerciements.aux
+A level-1 auxiliary file: 3-Resume_sujet.aux
+A level-1 auxiliary file: 3-Abstract.aux
+A level-1 auxiliary file: 4-Sigles_Abrev.aux
+A level-1 auxiliary file: 5-Introduction.aux
+A level-1 auxiliary file: 6-Revue_litterature.aux
+A level-1 auxiliary file: 6-Synthese_Revue_Objectifs.aux
+A level-1 auxiliary file: 7-Theme1.aux
+A level-1 auxiliary file: 7-Theme2.aux
+A level-1 auxiliary file: 7-Theme3.aux
+A level-1 auxiliary file: 8-Conclusion.aux
+The style file: plainnat.bst
+A level-1 auxiliary file: 9-Annexes.aux
+Database file #1: Bibli_Mendeley.bib
+Warning--empty journal in SpaceExplorationTechnologiesCorp2020FalconGuide
+Warning--there's a number but no volume in SpaceExplorationTechnologiesCorp2020FalconGuide
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            625 strings with 5605 characters,
+and the built_in function-call counts, 1346 in all, are:
+= -- 116
+> -- 59
+< -- 3
++ -- 21
+- -- 18
+* -- 96
+:= -- 204
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 15
+chr.to.int$ -- 3
+cite$ -- 8
+duplicate$ -- 73
+empty$ -- 121
+format.name$ -- 21
+if$ -- 284
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 53
+stack$ -- 0
+substring$ -- 45
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 2
+while$ -- 13
+width$ -- 0
+write$ -- 45
+(There were 2 warnings)
