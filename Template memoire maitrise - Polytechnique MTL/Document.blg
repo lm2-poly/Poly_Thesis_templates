@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Document.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: 1-Dedicace.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: 2-Remerciements.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 3-Resume_sujet.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: 3-Abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 4-Sigles_Abrev.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 5-Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: 6-Revue_litterature.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: 7-Synthese_Revue_Objectifs.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: 8-Theme1.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: 8-Theme2.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: 8-Theme3.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: 9-Conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: 10-Annexes.aux
+Database file #1: Document.bib
+Warning--entry type for "Thorsson2014" isn't style-file defined
+--line 233 of file Document.bib
+Warning--entry type for "Schirmer2012" isn't style-file defined
+--line 244 of file Document.bib
+Warning--entry type for "Sakai2015" isn't style-file defined
+--line 253 of file Document.bib
+Warning--entry type for "Electrical2006" isn't style-file defined
+--line 270 of file Document.bib
+Warning--entry type for "Min2016" isn't style-file defined
+--line 279 of file Document.bib
+Warning--to sort, need author or key in Electrical2006
+You've used 20 entries,
+            1935 wiz_defined-function locations,
+            622 strings with 7110 characters,
+and the built_in function-call counts, 6984 in all, are:
+= -- 686
+> -- 262
+< -- 19
++ -- 83
+- -- 83
+* -- 534
+:= -- 1241
+add.period$ -- 58
+call.type$ -- 20
+change.case$ -- 140
+chr.to.int$ -- 20
+cite$ -- 22
+duplicate$ -- 300
+empty$ -- 492
+format.name$ -- 112
+if$ -- 1397
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 15
+newline$ -- 99
+num.names$ -- 61
+pop$ -- 130
+preamble$ -- 1
+purify$ -- 140
+quote$ -- 0
+skip$ -- 226
+stack$ -- 0
+substring$ -- 371
+swap$ -- 46
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 1
+while$ -- 48
+width$ -- 0
+write$ -- 262
+(There were 6 warnings)
