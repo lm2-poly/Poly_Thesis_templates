@@ -1,6 +1,6 @@
-PWD c:\Users\frede\OneDrive\Documents\GitHub\Poly_Thesis_templates\Template memoire maitrise - Polytechnique MTL
+PWD c:\Users\frede\OneDrive - polymtl.ca\Ecole-Departement\LM2\Poly-thesis-template\Poly_Thesis_templates\Template memoire maitrise - Polytechnique MTL
 INPUT C:\Users\frede\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\frede\OneDrive\Documents\GitHub\Poly_Thesis_templates\Template memoire maitrise - Polytechnique MTL\Document.tex
+INPUT c:\Users\frede\OneDrive - polymtl.ca\Ecole-Departement\LM2\Poly-thesis-template\Poly_Thesis_templates\Template memoire maitrise - Polytechnique MTL\Document.tex
 OUTPUT Document.log
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
@@ -376,7 +376,6 @@ INPUT 5-Introduction.tex
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
-INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT .\dia\IPv6_header.png
 INPUT .\dia\IPv6_header.png
 INPUT .\dia\IPv6_header.png
@@ -392,8 +391,8 @@ INPUT .\demo_tikz.pdf
 INPUT .\demo_tikz.pdf
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
+INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT .\gnuplot\LinkUsage.png
 INPUT .\gnuplot\LinkUsage.png

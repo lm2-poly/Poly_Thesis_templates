@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.14)  7 FEB 2024 16:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.14)  17 APR 2024 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/frede/OneDrive/Documents/GitHub/Poly_Thesis_templates/Template memoire maitrise - Polytechnique MTL/Document.tex"
-(c:/Users/frede/OneDrive/Documents/GitHub/Poly_Thesis_templates/Template memoire maitrise - Polytechnique MTL/Document.tex
+**"c:/Users/frede/OneDrive - polymtl.ca/Ecole-Departement/LM2/Poly-thesis-template/Poly_Thesis_templates/Template memoire maitrise - Polytechnique MTL/Document.tex"
+(c:/Users/frede/OneDrive - polymtl.ca/Ecole-Departement/LM2/Poly-thesis-template/Poly_Thesis_templates/Template memoire maitrise - Polytechnique MTL/Document.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
 (C:\Users\frede\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -701,7 +701,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\frede\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (2.92142pt too wide) in paragraph at lines 34--34
+Overfull \hbox (2.92142pt too wide) in paragraph at lines 33--33
  [][] \T1/lmr/m/n/12 CHA-PITRE [][]TROISIÈME THÈME AVEC UN TITRE TRÈS LONG QUI S'ÉTEND 
  []
 
@@ -796,12 +796,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (5-Introduction.tex
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
 
  []
 
-Package acronym Info: Label `acro:IETF' newly defined as it shall be overridden
-although it is yet undefined on input line 23.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -814,10 +812,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-<./dia/IPv6_header.png, id=292, 323.2075pt x 242.9075pt>
+<./dia/IPv6_header.png, id=286, 323.2075pt x 242.9075pt>
 File: ./dia/IPv6_header.png Graphic file (type png)
 <use ./dia/IPv6_header.png>
-Package pdftex.def Info: ./dia/IPv6_header.png  used on input line 100.
+Package pdftex.def Info: ./dia/IPv6_header.png  used on input line 102.
 (pdftex.def)             Requested size: 289.07999pt x 217.26927pt.
 
 
@@ -827,13 +825,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
-
-]
-<demo_tikz.pdf, id=301, 249.46199pt x 67.36366pt>
+[2]
+<demo_tikz.pdf, id=295, 249.46199pt x 67.36366pt>
 File: demo_tikz.pdf Graphic file (type pdf)
 <use demo_tikz.pdf>
-Package pdftex.def Info: demo_tikz.pdf  used on input line 139.
+Package pdftex.def Info: demo_tikz.pdf  used on input line 141.
 (pdftex.def)             Requested size: 289.07999pt x 78.0689pt.
 
 
@@ -843,7 +839,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./dia/IPv6_header.png> <./demo_tikz.pdf>]
+[3{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./dia/IPv6_header.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -851,7 +847,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[4{C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <./demo_tikz.pdf>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -860,10 +856,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-<./gnuplot/LinkUsage.png, id=341, 642.4pt x 481.8pt>
+<./gnuplot/LinkUsage.png, id=335, 642.4pt x 481.8pt>
 File: ./gnuplot/LinkUsage.png Graphic file (type png)
 <use ./gnuplot/LinkUsage.png>
-Package pdftex.def Info: ./gnuplot/LinkUsage.png  used on input line 221.
+Package pdftex.def Info: ./gnuplot/LinkUsage.png  used on input line 223.
 (pdftex.def)             Requested size: 361.34999pt x 271.01918pt.
 )
 
@@ -880,7 +876,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (6-Revue_litterature.tex
 Chapitre 2.
-<Circuit_compile.pdf, id=397, 164.84787pt x 172.00159pt>
+<Circuit_compile.pdf, id=391, 164.84787pt x 172.00159pt>
 File: Circuit_compile.pdf Graphic file (type pdf)
 <use Circuit_compile.pdf>
 Package pdftex.def Info: Circuit_compile.pdf  used on input line 8.
@@ -1062,20 +1058,20 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `Document.out' has not changed.
-(rerunfilecheck)             Checksum: 86DB92F1E901007BD6C499280C5CCA4D;6219.
+(rerunfilecheck)             Checksum: 6E7F6639AD1F98D076D93DDD057F3B5A;5881.
  ) 
 Here is how much of TeX's memory you used:
- 20402 strings out of 474824
- 405037 string characters out of 5750976
- 1935043 words of memory out of 5000000
- 41829 multiletter control sequences out of 15000+600000
- 599679 words of font info for 65 fonts, out of 8000000 for 9000
+ 20392 strings out of 474824
+ 406994 string characters out of 5750976
+ 1934043 words of memory out of 5000000
+ 41820 multiletter control sequences out of 15000+600000
+ 596687 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,22n,67p,945b,1243s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,22n,67p,984b,1243s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Document.pdf (30 pages, 395446 bytes).
+Output written on Document.pdf (30 pages, 394191 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 556 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

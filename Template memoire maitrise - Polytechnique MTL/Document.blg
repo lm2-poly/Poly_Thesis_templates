@@ -32,15 +32,15 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: 10-Annexes.aux
 Database file #1: Document.bib
 Warning--entry type for "Thorsson2014" isn't style-file defined
---line 233 of file Document.bib
+--line 465 of file Document.bib
 Warning--entry type for "Schirmer2012" isn't style-file defined
---line 244 of file Document.bib
+--line 487 of file Document.bib
 Warning--entry type for "Sakai2015" isn't style-file defined
---line 253 of file Document.bib
+--line 505 of file Document.bib
 Warning--entry type for "Electrical2006" isn't style-file defined
---line 270 of file Document.bib
+--line 539 of file Document.bib
 Warning--entry type for "Min2016" isn't style-file defined
---line 279 of file Document.bib
+--line 557 of file Document.bib
 Warning--to sort, need author or key in Electrical2006
 You've used 20 entries,
             1935 wiz_defined-function locations,
